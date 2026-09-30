@@ -132,8 +132,8 @@ chest_xray/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd pneumonia-detection
+git clone https://github.com/burhan-arshad/pneumonia-detection-on-x-rays
+cd pneumonia-detection-on-x-rays
 ```
 
 Create and activate a virtual environment:
